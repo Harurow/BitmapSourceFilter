@@ -1,20 +1,24 @@
-* BitmapSourceFilter
+BitmapSourceFilter
 
 =============================================================================
-
-* ŠT—v
- DirectShow Filter‚Å‚·B
- ƒ\[ƒXƒtƒBƒ‹ƒ^‚Æ‚µ‚Ä“®ì‚µ‚Ü‚·Bƒoƒbƒtƒ@‚ğã‘‚«‚·‚é‚±‚Æ‚Åo—Í‚Ì‰f‘œ‚ğ•Ï‚¦‚ç‚ê‚Ü‚·B
-
-* •K{—vŒ
-- Windows Software Development Kit (SDK) for Windows Server 2008 and .NET Framework 3.5
- DirectX‚ÌSDK‚ğ—˜—p‚·‚é‚Ì‚Åã‹L‚ÌSDK‚ğƒCƒ“ƒXƒg[ƒ‹‚·‚é•K—v‚ª‚ ‚è‚Ü‚·B
- ‚Ü‚½ABaseClasses‚ğ—˜—p‚·‚é‚Ì‚ÅA
- %PROGRAMFILES%\Microsoft SDKs\Windows\v6.1\Samples\Multimedia\DirectShow\BaseClasses
- ‚ÌƒTƒ“ƒvƒ‹‚ğƒrƒ‹ƒh‚µ‚Ä‚¨‚¢‚Ä‚­‚¾‚³‚¢B
-
- ¦ ƒrƒ‹ƒh‚ÍVisual Studio 2008‚Ås‚¢‚Ü‚µ‚½B
+æ¦‚è¦
+ DirectShow Filterã§ã™ã€‚
+ ã‚½ãƒ¼ã‚¹ãƒ•ã‚£ãƒ«ã‚¿ã¨ã—ã¦å‹•ä½œã—ã¾ã™ã€‚ãƒãƒƒãƒ•ã‚¡ã‚’ä¸Šæ›¸ãã™ã‚‹ã“ã¨ã§å‡ºåŠ›ã®æ˜ åƒã‚’å¤‰ãˆã‚‰ã‚Œã¾ã™ã€‚
 
 -----------------------------------------------------------------------------
-* Release Notes
+å¿…é ˆè¦ä»¶
+ Windows Software Development Kit (SDK) for Windows Server 2008 and .NET Framework 3.5
+ DirectXã®SDKã‚’åˆ©ç”¨ã™ã‚‹ã®ã§ä¸Šè¨˜ã®SDKã‚’ã‚¤ãƒ³ã‚¹ãƒˆãƒ¼ãƒ«ã™ã‚‹å¿…è¦ãŒã‚ã‚Šã¾ã™ã€‚
+ ã¾ãŸã€BaseClassesã‚’åˆ©ç”¨ã™ã‚‹ã®ã§ã€
+ %PROGRAMFILES%\Microsoft SDKs\Windows\v6.1\Samples\Multimedia\DirectShow\BaseClasses
+ ã®ã‚µãƒ³ãƒ—ãƒ«ã‚’ãƒ“ãƒ«ãƒ‰ã—ã¦ãŠã„ã¦ãã ã•ã„ã€‚
+
+ â€» ãƒ“ãƒ«ãƒ‰ã¯Visual Studio 2008ã§è¡Œã„ã¾ã—ãŸã€‚
+
+-----------------------------------------------------------------------------
+ãƒ©ã‚¤ã‚»ãƒ³ã‚¹
+ MITãƒ©ã‚¤ã‚»ãƒ³ã‚¹
+
+-----------------------------------------------------------------------------
+ãƒªãƒªãƒ¼ã‚¹ãƒãƒ¼ãƒˆ
 
